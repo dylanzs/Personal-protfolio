@@ -1,2 +1,2 @@
 # Personal-protfolio
-hi
+This is a page about me and things about me.
