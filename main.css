@@ -76,6 +76,30 @@ html, body, h1, h2, h3, h4, p, div {
   margin-top: 30px;
   color: white;
 }
+.badges h2{
+  text-align: center;
+  font-family: Helvitica, sans-serif;
+  font-size: 24px;
+  margin-top: 30px;
+  color: white;
+}
+.badges img {
+  width: 300px;
+  height: 300px;
+}
+
+.badges figcaption {
+  color: white;
+  font-family: Helvitica, sans-serif;
+  font-weight: 100;
+
+}
+
+.badges figure {
+  text-align: center;
+  margin: 0em;
+  padding: 0.5em;
+}
 
 body {
   background: #555555 url(images/bg-tile.png) top left repeat;
